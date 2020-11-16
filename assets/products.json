@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "barCode" : "00114578",
+      "name": "Gaming mouse",
+      "price": 2200,
+      "quantity": 12
+    },
+    {
+      "barCode" : "45001203",
+      "name": "Gaming keyboard",
+      "price": 2500,
+      "quantity": 9
+    }
+  ]
+}
